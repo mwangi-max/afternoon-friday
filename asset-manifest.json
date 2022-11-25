@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/afternoon-friday/static/css/main.bdf59a2e.css",
+    "main.js": "/afternoon-friday/static/js/main.7548eaac.js",
+    "index.html": "/afternoon-friday/index.html",
+    "main.bdf59a2e.css.map": "/afternoon-friday/static/css/main.bdf59a2e.css.map",
+    "main.7548eaac.js.map": "/afternoon-friday/static/js/main.7548eaac.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bdf59a2e.css",
+    "static/js/main.7548eaac.js"
+  ]
+}
